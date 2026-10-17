@@ -1,4 +1,4 @@
-# Custom Posix Shell -- Assignment 2 
+# Custom Posix Shell 
 
 ## 📌 Overview
 
