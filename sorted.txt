@@ -1,0 +1,7 @@
+"Apple"
+"elephant"
+"hello"
+"Hope"
+"Morcoon"
+pineapple
+
